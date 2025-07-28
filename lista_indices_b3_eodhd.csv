@@ -1,9 +1,9 @@
-Nome,Ticker,Outro
-Util. Pública,UTIL,
-Financeiro,IFNC,
-Imobiliário,IMOB,
-Consumo,ICON,
-Industrial,INDX,
-Mat. Básicos,MATB11,
-Ibovespa,BVSP.INDX,
-Small Caps,SMLL,SMAC11
+Nome,Ticker
+Util. Pública,UTIL.SA
+Financeiro,IFNC.SA
+Imobiliário,IMOB.SA
+Consumo,ICON.SA
+Industrial,INDX.SA
+Mat. Básicos,MATB11.SA
+Ibovespa,BVSP.INDX
+Small Caps,SMLL.SA
